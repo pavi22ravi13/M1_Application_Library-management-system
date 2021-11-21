@@ -10,3 +10,11 @@ The main objectives of this project is to:
 5. List the count of books in the library.
 6. Exit.
 
+# SWOT ANALYSIS:
+## STRENGTH:
+* Simple and easy to operate.
+* Increase librarian's efficiencies.
+* Search, add, update, and view library materials online.
+* Helps to manage library functions constructively.
+* Saves time and reduces overheads.
+* Reduce library's operating cost.
