@@ -18,3 +18,21 @@ The main objectives of this project is to:
 * Helps to manage library functions constructively.
 * Saves time and reduces overheads.
 * Reduce library's operating cost.
+
+## WEAKNESS:
+* The data stored is prone to cyber hacks.
+* Complicated to operate.
+* Online Systems require high-speed internet connectivity.
+* Risk of computer virus.
+
+# OPPORTUNITIES:
+Apart from those informations that are mentioned above in the objectives, you can also use your ideas how to take this project to next level by adding more informations like:
+Display all the books that are available, display highest price books etc. 
+
+## THREATS:
+ * inadequacy of infrastructure and hardware.
+ * Problems in the software.
+ 
+
+
+ 
