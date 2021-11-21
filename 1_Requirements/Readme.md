@@ -25,7 +25,7 @@ The main objectives of this project is to:
 * Online Systems require high-speed internet connectivity.
 * Risk of computer virus.
 
-# OPPORTUNITIES:
+## OPPORTUNITIES:
 Apart from those informations that are mentioned above in the objectives, you can also use your ideas how to take this project to next level by adding more informations like:
 Display all the books that are available, display highest price books etc. 
 
