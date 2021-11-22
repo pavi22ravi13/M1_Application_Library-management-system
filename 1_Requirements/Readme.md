@@ -32,6 +32,19 @@ Display all the books that are available, display highest price books etc.
 ## THREATS:
  * inadequacy of infrastructure and hardware.
  * Problems in the software.
+
+# 4W's and 1'H
+## Why:
+The interface is user-friendly and simple to navigate.
+## Where:
+The Library management System can be accessed from anywhere.
+## Who:
+It can used by any person.
+## When:
+It can be used at anytime depending upon the person's perferences.
+## How:
+By entering the details you want to know.
+
  
 
 
