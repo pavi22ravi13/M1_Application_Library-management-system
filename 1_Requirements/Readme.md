@@ -39,7 +39,7 @@ The interface is user-friendly and simple to navigate.
 ## Where:
 The Library management System can be accessed from anywhere.
 ## Who:
-It can used by any person.
+It can be used by any person.
 ## When:
 It can be used at anytime depending upon the person's perferences.
 ## How:
