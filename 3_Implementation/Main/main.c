@@ -8,8 +8,8 @@
  * @copyright Copyright (c) 2021
  * 
  */
-
-#include "C:\Users\RAVI\OneDrive\Desktop\M1_Application_Library-management-system\3_Implementation\inc\library.h"
+#include "..\src\library.c"
+#include "..\inc\library.h"
 
 int main()
 {
@@ -91,3 +91,4 @@ exit (0);
 }
 }
 return 0;
+}
