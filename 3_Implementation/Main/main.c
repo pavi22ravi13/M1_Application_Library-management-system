@@ -1,6 +1,6 @@
 /**
  * @file main.c
- * @author your name (you@domain.com)
+ * @author Pavithra Ravi
  * @brief 
  * @version 0.1
  * @date 2021-11-23
