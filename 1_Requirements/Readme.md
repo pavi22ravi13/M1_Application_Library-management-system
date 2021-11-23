@@ -45,6 +45,22 @@ It can be used at anytime depending upon the person's perferences.
 ## How:
 By entering the details you want to know.
 
+# High Level Requirements
+| ID   |      Description     |  Status |
+|----------|:-------------:|------:|
+| HLR_1 |    Add book information | Implemented  |
+| HLR_2 |    Display book information  | Implemented  |
+| HLR_3 |    List all books of given author  | Implemented  |
+| HLR_4 |    List the title of specified book| Implemented  |
+| HLR_5 |    List the count of books in the library  | Implemented  |
+
+# Low Level Requirements
+| ID   |      Description     |  Status |
+|----------|:-------------:|------:|
+| LLR_1 |  List of operations displayed | Implemented  |
+| LLR_2 |  Input from the user  | Implemented  |
+| LLR_3 |  Exit the program  | Implemented  |
+
  
 
 
