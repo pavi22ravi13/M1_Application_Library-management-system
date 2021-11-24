@@ -12,25 +12,23 @@ The main objectives of this project is to
 5. List the count of books in the library.
 6. Exit.
 
-# SWOT ANALYSIS:
-## STRENGTH:
-* Simple and easy to operate.
-* Increase librarian's efficiencies.
-* Search, add, update, and view library materials online.
-* Helps to manage library functions constructively.
-* Saves time and reduces overheads.
-* Reduce library's operating cost.
 
-## WEAKNESS:
-* The data stored is prone to cyber hacks.
-* Complicated to operate.
-* Online Systems require high-speed internet connectivity.
-* Risk of computer virus.
+## Code Quality Score
+![Code Quality Score](https://api.codiga.io/project/29917/score/svg)
+## Code Grade
+![Code Grade](https://api.codiga.io/project/29917/status/svg)
 
-## OPPORTUNITIES:
-Apart from those informations that are mentioned above in the objectives, you can also use your ideas how to take this project to next level by adding more informations like:
-Display all the books that are available, display highest price books etc. 
+## Code Quality
+Build | Code Quality & Analysis - Static | Unity | Git Inspector | Code Quality & Analysis - Dynamic
+--------------|-------------------------|---------------|---------------------|--------------------|
+[![Linux Check](https://github.com/pavi22ravi13/M1_Application_Library-management-system/actions/workflows/linux.yml/badge.svg)](https://github.com/pavi22ravi13/M1_Application_Library-management-system/actions/workflows/linux.yml)|[![Code Quality - Static Code - Cppcheck](https://github.com/pavi22ravi13/M1_Application_Library-management-system/actions/workflows/cppchecker.yml/badge.svg)](https://github.com/pavi22ravi13/M1_Application_Library-management-system/actions/workflows/cppchecker.yml)|[![Unit Testing - Unity](https://github.com/pavi22ravi13/M1_Application_Library-management-system/actions/workflows/unity.yml/badge.svg)](https://github.com/pavi22ravi13/M1_Application_Library-management-system/actions/workflows/unity.yml)|[![Contribution Check - Git Inspector](https://github.com/pavi22ravi13/M1_Application_Library-management-system/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/pavi22ravi13/M1_Application_Library-management-system/actions/workflows/gitinspector.yml)|[![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/pavi22ravi13/M1_Application_Library-management-system/actions/workflows/valgrind.yml/badge.svg)](https://github.com/pavi22ravi13/M1_Application_Library-management-system/actions/workflows/valgrind.yml)
 
-## THREATS:
- * inadequacy of infrastructure and hardware.
- * Problems in the software.
+# Folder Structure
+| Folder   |      Description     |  
+|----------|:-------------:|
+| 1_Requirements |  Documents detailing requirements and research |
+| 2_Design |    Documents specifying design  | 
+| 3_Implementation |   All codes and Documentation  |
+| 4_TestPlan |  Documents with test plans |
+| 5_Report |    Documentation of whole project  | 
+| 6_Images |    All the images of this project  |
