@@ -14,9 +14,9 @@ The main objectives of this project is to
 
 
 ## Code Quality Score
-![Code Quality Score](https://api.codiga.io/project/29917/score/svg)
+![Code Quality Score](https://api.codiga.io/project/29903/score/svg)
 ## Code Grade
-![Code Grade](https://api.codiga.io/project/29917/status/svg)
+![Code Grade](https://api.codiga.io/project/29903/status/svg)
 
 ## Code Quality
 Build | Code Quality & Analysis - Static | Unity | Git Inspector | Code Quality & Analysis - Dynamic
