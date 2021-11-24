@@ -9,7 +9,8 @@
  * 
  */
 
-#include "..\inc\library.h"
+#include "../inc/library.h"
+#include "../src/library.c"
 
 int main()
 {
