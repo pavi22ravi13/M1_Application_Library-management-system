@@ -8,7 +8,7 @@
  * @copyright Copyright (c) 2021
  * 
  */
-#include "..\src\library.c"
+
 #include "..\inc\library.h"
 
 int main()
